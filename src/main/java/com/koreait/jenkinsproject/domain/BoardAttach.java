@@ -14,11 +14,9 @@ import lombok.ToString;
 @ToString
 @Builder
 public class BoardAttach {
-
 	private String uuid;
 	private String path;
 	private String origin;
 	private String fileType;
 	private Long boardNo;
-	
 }
