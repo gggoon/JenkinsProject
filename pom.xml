@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.koreait</groupId>
 	<artifactId>jenkinsproject</artifactId>
-	<name>JenkinsProject</name>
+	<name>JenkinsProject2</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	
